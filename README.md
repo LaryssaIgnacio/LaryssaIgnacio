@@ -36,7 +36,7 @@ Dedico-me continuamente ao aprofundamento técnico através de cursos especializ
 
 ### 🚀 Projetos Principais
 
-- 📂 **[Pasta de Projetos Pessoais](https://github.com/LaryssaIgnacio/projetos-alura)** - 
+- 📂 **[Pasta de Projetos Pessoais](https://github.com/LaryssaIgnacio/projetos-alura)** 
 
 ---
 
