@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Desenvolvedora+Backend+e+Frontend;Focada+em+C%23+e+Java;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Construindo+Solu%C3%A7%C3%B5es+Eficientes" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Desenvolvedora+Backend+e+Frontend;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Construindo+Solu%C3%A7%C3%B5es+Eficientes" alt="Typing SVG" />
   </a>
 </p>
 
@@ -41,5 +41,5 @@ Dedico-me continuamente ao aprofundamento técnico através de cursos especializ
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" alt="Bongo Cat Keyboard GIF" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGk5cGVibWJpenVkb2J6cnA2aW9lbmo0cDg3Nm9mOWI2aGl6azNwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sthmCnCpfr8M8jtTQy/giphy.gif" width="120" alt="Bongo Cat Keyboard GIF" />
 </div>
