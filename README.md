@@ -22,9 +22,9 @@
 ---
 
 ### 💻 Sobre Mim
-Sou graduanda em **Sistemas de Informação pela Universidade Santa Cecília (UNISANTA)**, com foco no desenvolvimento de soluções computacionais eficientes e escaláveis. Minha trajetória na programação inclui o desenvolvimento de diversos projetos, onde apliquei conceitos de lógica, estrutura de dados e orientação a objetos em linguagens como C#, Java, JavaScript e SQL.
+Sou graduanda em **Sistemas de Informação pela Universidade Santa Cecília (UNISANTA)**, com foco no desenvolvimento de soluções computacionais eficientes e escaláveis. Minha trajetória na programação inclui o desenvolvimento de diversos projetos práticos, onde apliquei conceitos de lógica, estrutura de dados e orientação a objetos utilizando linguagens como C#, Java, JavaScript, HTML, CSS e bancos de dados SQL.
 
-Atualmente, dedico-me ao aprofundamento técnico através de cursos especializados e projetos práticos, visando solidificar meu conhecimento em engenharia de software e melhores práticas de mercado.
+Dedico-me continuamente ao aprofundamento técnico através de cursos especializados, visando solidificar meu conhecimento em engenharia de software e nas melhores práticas do mercado de tecnologia.
 
 ---
 
@@ -38,13 +38,8 @@ Atualmente, dedico-me ao aprofundamento técnico através de cursos especializad
 ---
 
 ### 🚀 Projetos Principais
-*(Dica para Laryssa: Linke seus repositórios reais aqui!)*
 
-- 📂 **[Nome do Projeto Principal]** - Descrição sucinta da solução e tecnologias usadas.
-- 📂 **[Sistema de Gestão]** - Exemplo de projeto acadêmico ou pessoal.
-- 📂 **[Web App com JS/C#]** - Aplicação web integrando frontend e backend.
-
-*(Selecione e fixe os melhores repositórios no perfil do GitHub para os recrutadores clicarem).*
+- 📂 **[Pasta de Projetos Pessoais](https://github.com/LaryssaIgnacio/projetos-alura)** - 
 
 ---
 
