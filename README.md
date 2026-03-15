@@ -18,17 +18,17 @@
 
 ---
 
-### 💻 Sobre Mim
+###  Sobre Mim ♡
 Sou graduanda em **Sistemas de Informação pela Universidade Santa Cecília (UNISANTA)**, com foco no desenvolvimento de soluções computacionais eficientes e escaláveis. Minha trajetória na programação inclui o desenvolvimento de diversos projetos práticos, onde apliquei conceitos de lógica, estrutura de dados e orientação a objetos utilizando linguagens como C#, Java, JavaScript, HTML, CSS e bancos de dados SQL.
 
 Dedico-me continuamente ao aprofundamento técnico através de cursos especializados, visando solidificar meu conhecimento em engenharia de software e nas melhores práticas do mercado de tecnologia.
 
 ---
 
-### 🛠️ Competências Técnicas
+###  Competências Técnicas
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,js,html,css,sql,git,github" />
+    <img src="https://skillicons.dev/icons?i=cs,java,js,html,css,sql,github" />
   </a>
 </p>
 
