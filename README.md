@@ -41,5 +41,5 @@ Dedico-me continuamente ao aprofundamento técnico através de cursos especializ
 ---
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGk5cGVibWJpenVkb2J6cnA2aW9lbmo0cDg3Nm9mOWI2aGl6azNwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sthmCnCpfr8M8jtTQy/giphy.gif" width="120" alt="Bongo Cat Keyboard GIF" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBlbmNlOHdidmtlNWVwZGhlZ3cwbWxzb2pnc3d6cnRxb2E4MG1wciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OUguXio0OxdBzO3OQY/giphy.gif" width="120" alt="Bongo Cat Keyboard GIF" />
 </div>
