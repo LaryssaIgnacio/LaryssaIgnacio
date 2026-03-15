@@ -28,7 +28,7 @@ Dedico-me continuamente ao aprofundamento técnico através de cursos especializ
 ###  Competências Técnicas
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,js,html,css,sql,github" />
+    <img src="https://skillicons.dev/icons?i=cs,java,js,html,css,github" />
   </a>
 </p>
 
