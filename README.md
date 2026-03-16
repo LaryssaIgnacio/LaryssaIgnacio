@@ -5,7 +5,7 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=laryssaflabio19@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="file:///C:/Users/Usuario/Downloads/Curr%C3%ADculo%20Laryssa%20Flabio%20Ignacio.pdf" target="_blank">
+  <a href="https://github.com/LaryssaIgnacio/LaryssaIgnacio/blob/8919d71adad79b2e0ac99bf84b342549f24f4c58/Curr%C3%ADculo%20Laryssa%20Flabio%20Ignacio.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Curriculum-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="CV Badge"/>
   </a>
 </div>
