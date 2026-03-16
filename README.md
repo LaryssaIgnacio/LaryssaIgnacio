@@ -2,13 +2,13 @@
   <a href="https://www.linkedin.com/in/laryssaignacio/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:seu-email@dominio.com" target="_blank">
+  <a href="mailto:laryssaflabio19@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="LINK_DO_CV_EM_PDF" target="_blank">
     <img src="https://img.shields.io/badge/Curriculum-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="CV Badge"/>
   </a>
-</div>>
+</div>
 
 <h1 align="center">Laryssa Ignacio</h1>
 <h3 align="center">Desenvolvedora de Software | Estudante de Sistemas de Informação</h3>
