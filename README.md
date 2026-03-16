@@ -31,7 +31,8 @@ Dedico-me continuamente ao aprofundamento técnico através de cursos especializ
 ###  Competências Técnicas
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,js,html,css,github,re" />
+    <img src="https://skillicons.dev/icons?i=cs,java,js,html,css,github" />
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   </a>
 </p>
 
