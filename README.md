@@ -11,7 +11,7 @@
 </div>
 
 <h1 align="center">Laryssa Ignacio</h1>
-<h3 align="center">Desenvolvedora de Software | Estudante de Sistemas de Informação</h3>
+<h3 align="center">Desenvolvedora Full Stack | Estudante de Sistemas de Informação</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
