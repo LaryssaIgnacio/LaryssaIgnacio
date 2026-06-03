@@ -22,16 +22,18 @@
 ---
 
 ###  Sobre Mim ♡
-Sou graduanda em **Sistemas de Informação pela Universidade Santa Cecília (UNISANTA)**, com foco no desenvolvimento de soluções computacionais eficientes e escaláveis. Minha trajetória na programação inclui o desenvolvimento de diversos projetos práticos, onde apliquei conceitos de lógica, estrutura de dados e orientação a objetos utilizando linguagens como C#, Java, JavaScript, HTML, CSS e bancos de dados SQL.
+Sou graduanda em Sistemas de Informação pela UNISANTA, com formação prevista para 2027, e tenho me dedicado a criar experiências digitais que combinam design bonito, boa usabilidade e tecnologia que realmente funciona.
 
-Dedico-me continuamente ao aprofundamento técnico através de cursos especializados, visando solidificar meu conhecimento em engenharia de software e nas melhores práticas do mercado de tecnologia.
+Trabalho com desenvolvimento web, UI/UX Design e prototipação no Figma, e já participei de projetos para diferentes segmentos. Um dos que mais me orgulho foi a criação de uma loja virtual do zero que cuidei de tudo, desde o design até o desenvolvimento e a experiência do usuário.Esse projeto me deu uma visão bem mais ampla sobre produto, negócios e como resolver problemas de forma criativa e prática. Na faculdade, fui construindo uma base sólida em lógica, estrutura de dados e orientação a objetos, com projetos usando C#, Java, JavaScript, HTML, CSS, SQL e Power BI. Fora da grade, fico de olho em cursos e tendências do mercado, porque aprender é algo que não tem fim (e eu gosto muito disso!).
+
+Sou apaixonada por tecnologia e me interesso por desenvolvimento web, design digital, UX, dados e marketing — sempre em busca de novos desafios onde eu possa contribuir de verdade e crescer junto com o time.
 
 ---
 
 ###  Competências Técnicas
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,js,html,css,github" />
+  <img src="https://skillicons.dev/icons?i=cs,java,js,html,css,github,figma,powershell,mysql" />
     
   </a>
 </p>
