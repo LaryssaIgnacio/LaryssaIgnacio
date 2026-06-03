@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
-<h1 align="center">Laryssa Ignacio</h1>
+<h1 align="center">Laryssa Flabio Ignacio</h1>
 <h3 align="center" > Web Developer & Designer</h3>
 <p align="center">
   <a href="https://git.io/typing-svg">
