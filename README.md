@@ -11,7 +11,7 @@
 </div>
 
 <h1 align="center">Laryssa Ignacio</h1>
-<h3 align="center" >Web Developer & Designer</h3>
+<h3 align="center" > Web Developer & Designer</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
