@@ -42,8 +42,8 @@ Sou apaixonada por tecnologia e me interesso por desenvolvimento web, design dig
 
 ### 🚀 Projetos Principais
 
-- 📂 **[Pasta de Projetos Pessoais Alura ](https://github.com/LaryssaIgnacio/projetos-alura)** 
-
+- 📂 **[Pasta de Projetos Alura ](https://github.com/LaryssaIgnacio/projetos-alura)** 
+- 📂 **[Pasta de Projetos Pessoais ]**
 ---
 
 <div align="center">
