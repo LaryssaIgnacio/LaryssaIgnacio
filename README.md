@@ -39,4 +39,5 @@ Sou apaixonada por tecnologia e me interesso por desenvolvimento web, design dig
 ### 🚀 Projetos Principais
 - 📂 **[Pasta de Projetos - Alura](https://github.com/LaryssaIgnacio/projetos-alura)**
 - 📂 **[Pasta de Projetos Pessoais - Web Site Loja](https://github.com/LaryssaIgnacio/achados.ignacio)**
+- 📂 **[Pasta do Projeto FlabelliConfeitaria - Web Site Loja](https://github.com/LaryssaIgnacio/FlabelliConfeitaria)**
 
