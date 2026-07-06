@@ -40,4 +40,5 @@ Sou apaixonada por tecnologia e me interesso por desenvolvimento web, design dig
 - 📂 **[Pasta de Projetos - Alura](https://github.com/LaryssaIgnacio/projetos-alura)**
 - 📂 **[Pasta de Projetos Pessoais - Web Site Loja](https://github.com/LaryssaIgnacio/achados.ignacio)**
 - 📂 **[Pasta do Projeto FlabelliConfeitaria - Web Site Loja](https://github.com/LaryssaIgnacio/FlabelliConfeitaria)**
+- 📂 **[Pasta do Projeto Power BI - Dashboard de Vendas para Petshop](https://github.com/LaryssaIgnacio/gatito-petshop-dashboard)**
 
